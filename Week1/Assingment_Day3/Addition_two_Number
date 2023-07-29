@@ -1,0 +1,6 @@
+"""Q1. Python program to add two numbers entered by User."""
+
+a = int(input("Enter first Number: "))
+b = int(input("Enter second Number: "))
+c = a + b     
+print(f"Total of two number is: {c}")

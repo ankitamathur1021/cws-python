@@ -1,0 +1,8 @@
+"""Q2. Store three integers in x, y and z. Print their product."""
+
+a = int(input("Enter first Number: "))
+b = int(input("Enter second Number: "))
+c = int(input("Enter third Number: "))
+d = a * b * c
+print(f"Product of four interger is: {d}")
+
